@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋
+# My Bangumi is here: [DogDu](https://bangumi.tv/user/dogdu)
 
 <!--
 **Dog-Du/Dog-Du** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
